@@ -4,3 +4,4 @@ Please upload logical programs here.
 Techgeni interview Logical Programs added to source
 
 1.String reverse using recursion
+2.Factorial of number Using recursion.
