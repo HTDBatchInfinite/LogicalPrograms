@@ -10,3 +10,4 @@ Techgeni interview Logical Programs added to source
 S1.equals(S2)
 
 Chari added
+vamshi added
