@@ -6,6 +6,8 @@ Techgeni interview Logical Programs added to source
 1.String reverse using recursion
 2.Factorial of number Using recursion.
 
-1.String equals method and '==' diffrence(added to source(StringTest))
-2.How to avoid duplicate objects in Collection ApI(added to source(HashSetTest))
+1.String equals method and '==' diffrence(added to source(StringOperations))
+2.How to avoid duplicate objects in Collection ApI(added to source(AvoidObjectDuplicateHashSet))
 You must override HashCode and equals method in Pojo Class
+3.How to call private method inside a class from another class(Added to source(PriavteMethodAccessTest))
+we can invoke private method using the reflection api
