@@ -1,6 +1,6 @@
 package com.logicalcode;
 
-public class StringTest {
+public class StringOperations {
 
 	public static void main(String[] args) {
 		String s1="Test1";

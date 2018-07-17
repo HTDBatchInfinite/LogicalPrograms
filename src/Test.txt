@@ -8,4 +8,4 @@ Techgeni interview Logical Programs added to source
 
 1.String equals method and '==' diffrence(added to source(StringTest))
 2.How to avoid duplicate objects in Collection ApI(added to source(HashSetTest))
-
+You must override HashCode and equals method in Pojo Class

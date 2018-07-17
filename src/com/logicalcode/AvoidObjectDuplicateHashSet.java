@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 import com.logicalcode.bean.Sample1;
 
-public class HashSetTest {
+public class AvoidObjectDuplicateHashSet {
 	public static void main(String[] args) {
 		Sample1 s1=new Sample1();
 		Sample1 s2=new Sample1();
