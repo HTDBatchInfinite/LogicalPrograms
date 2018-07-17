@@ -6,10 +6,6 @@ Techgeni interview Logical Programs added to source
 1.String reverse using recursion
 2.Factorial of number Using recursion.
 
-1.S1==S2
-S1.equals(S2)
-
-Chari added
-vamshi chandu1
-vamshi added
+1.String equals method and '==' diffrence(added to source(StringTest))
+2.How to avoid duplicate objects in Collection ApI(added to source(HashSetTest))
 
