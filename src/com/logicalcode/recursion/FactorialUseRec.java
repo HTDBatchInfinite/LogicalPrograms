@@ -1,4 +1,4 @@
-package com.logicalcode;
+package com.logicalcode.recursion;
 
 public class FactorialUseRec {
 	public static void main(String[] args) {

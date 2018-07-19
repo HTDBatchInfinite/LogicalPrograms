@@ -1,4 +1,4 @@
-package com.logicalcode;
+package com.logicalcode.Strings;
 
 public class StringOperations {
 

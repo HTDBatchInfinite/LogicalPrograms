@@ -1,4 +1,4 @@
-package com.logicalcode;
+package com.logicalcode.reflectionapi;
 
 import java.lang.reflect.Method;
 

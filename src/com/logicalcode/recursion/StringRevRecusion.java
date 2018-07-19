@@ -1,4 +1,4 @@
-package com.logicalcode;
+package com.logicalcode.recursion;
 
 public class StringRevRecusion {
 
@@ -12,9 +12,15 @@ public class StringRevRecusion {
 	    public static void main(String[] args) 
 	    {
 	    	//StringRevRecusion obj=new StringRevRecusion();
-	        String name = "chandu";
+	        String name = "madam";
 	       String rev= reverse(name);
-	        System.out.println("rev::"+rev);  
+	        System.out.println("rev::"+rev); 
+	        if(name.equals(rev)){
+	        	System.out.println("given String "+name+" is palindrome");
+	        }
+	        else{
+	        	System.out.println("given String "+name+" is not palindrome");
+	        }
 	    }  
 	
 

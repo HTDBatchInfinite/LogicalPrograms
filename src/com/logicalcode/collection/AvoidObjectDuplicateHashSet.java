@@ -1,4 +1,4 @@
-package com.logicalcode;
+package com.logicalcode.collection;
 
 import java.util.HashSet;
 
@@ -13,10 +13,10 @@ public class AvoidObjectDuplicateHashSet {
 		HashSet<Sample1> hashSet=new HashSet<Sample1>();
 		hashSet.add(s1);
 		hashSet.add(s2);
-		Sample1 s3=new Sample1();
+		/*Sample1 s3=new Sample1();
 		s3.setFirstName("siva");
-		s3.setLastName("ujjina");
-		hashSet.add(s3);
+		s3.setLastName("ujjina");*/
+		//hashSet.add(s3);
 		System.out.println("size::"+hashSet.size());
 		for(Sample1 obj :hashSet){
 			System.out.println(obj);
