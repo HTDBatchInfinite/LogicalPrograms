@@ -11,3 +11,9 @@ Techgeni interview Logical Programs added to source
 You must override HashCode and equals method in Pojo Class
 3.How to call private method inside a class from another class(Added to source(PriavteMethodAccessTest))
 we can invoke private method using the reflection api
+4.What is singleton Class how to create singleton class(Example added to source)
+-->Here instance will create once
+-->Make constructor as private.
+Write a static method that has return type object of this singleton class. Here, 
+the concept of Lazy initialization in used to write this static method.
+5.How to find the Max duplicate word count(Example added to source)
