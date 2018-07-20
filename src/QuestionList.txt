@@ -17,3 +17,5 @@ we can invoke private method using the reflection api
 Write a static method that has return type object of this singleton class. Here, 
 the concept of Lazy initialization in used to write this static method.
 5.How to find the Max duplicate word count(Example added to source)
+6.How to sort the value in Map(Example added to source) 
+	
